@@ -1,1 +1,1 @@
-https://likaproject.github.io/Email/-
+https://likaproject.github.io/Email/
